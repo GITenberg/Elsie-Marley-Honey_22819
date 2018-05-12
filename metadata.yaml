@@ -1,0 +1,28 @@
+_repo: Elsie-Marley-Honey_22819
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gray, Joslyn
+    gutenberg_agent_id: '25559'
+    url: http://www.gutenberg.org/2009/agents/25559
+description: Two orphaned teenage girls, with the same first name, meet on a cross-country
+  train. On the way to live with distant relatives they do not know, they agree to
+  switch identities.
+gutenberg_issued: '2007-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22819'
+  lccn: '18017495'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Impostors and imposture -- Fiction'
+- !lcsh 'Girls -- Fiction'
+title: Elsie Marley, Honey
+url: http://www.gutenberg.org/ebooks/22819
